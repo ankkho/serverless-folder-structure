@@ -10,18 +10,17 @@
 
 	schema.js: Provide all your schema validation within this module.
 
-	You can use [joi](https://github.com/hapijs/joi) for schema validation
-
 #### util.js:
 A module for utility functions.
 
 #### handler.js:
 Collection of all Lambda handler functions.
 
+> You can use [joi](https://github.com/hapijs/joi) for schema validation.
 
 ### How to run this example
 
-git clone git@github.com:ankkho/serverless-folder-structure.git
+`git clone git@github.com:ankkho/serverless-folder-structure.git`
 
 1) `npm i`
 

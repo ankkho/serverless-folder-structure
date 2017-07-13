@@ -1,0 +1,30 @@
+{
+  "name": "serverless-folder-structure",
+  "version": "1.0.0",
+  "description": "A simple folder structure for serverless apps which allows you to add middleware functions",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankkho/serverless-folder-structure.git"
+  },
+  "keywords": [
+    "serverless",
+    "aws",
+    "lambda",
+    "serverless",
+    "folder",
+    "structure"
+  ],
+  "author": "Ankit Khosla",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ankkho/serverless-folder-structure/issues"
+  },
+  "homepage": "https://github.com/ankkho/serverless-folder-structure#readme",
+  "devDependencies": {
+    "serverless-offline": "^3.15.0"
+  }
+}

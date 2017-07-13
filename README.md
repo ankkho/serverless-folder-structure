@@ -25,7 +25,7 @@ Collection of all Lambda handler functions.
 1) `npm i`
 
 2) `sls offline start`
-Checkout [serverless-offline](https://github.com/dherault/serverless-offline)
+Checkout [serverless-offline](https://github.com/dherault/serverless-offline).
 I would highly recommend this plugin!
 
 3) You can either use postman

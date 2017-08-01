@@ -1,5 +1,5 @@
 # serverless-folder-structure
-> A simple folder structure for serverless apps which allows you to add middleware functions for each handler function.
+> A simple folder structure for serverless apps which allows you to add middleware functions for each lambda handler.
 
 
 ### lib
@@ -25,10 +25,6 @@ Collection of all Lambda handler functions.
 1) `npm i`
 
 2) `sls offline start`
-Checkout [serverless-offline](https://github.com/dherault/serverless-offline).
-I would highly recommend this plugin!
+Checkout [serverless-offline](https://github.com/dherault/serverless-offline). I would highly recommend this plugin!
 
-3) You can either use postman
-or run simple curl command
-
-`curl http://localhost:3000/sample/hello` to invoke hello function
+3) To invoke your lambda function either use postman or run a simple curl command `curl http://localhost:3000/sample/hello`.
